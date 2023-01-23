@@ -1,9 +1,6 @@
 # Employee Management App
 Frontend Repo for employee management application
 
-
-
-=======
 ## Backend Repo for employee management application can be found at:
 https://github.com/mohdahtesham/EmployeeManagementJava
 
