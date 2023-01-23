@@ -37,16 +37,17 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Delete Employee
 
 ![img-4](https://user-images.githubusercontent.com/44728029/213948977-e7decdf2-4833-4404-aefd-18c0310ede89.png)
-## Dynamic Search Employee
+## Add Employee
 
 ![img-5](https://user-images.githubusercontent.com/44728029/213948978-1d09fdf7-ece7-4b31-a0bb-f4dfd50cfabd.png)
-## Validations with error message
+##  Dynamic Search Employee
 
 ![img-6](https://user-images.githubusercontent.com/44728029/213948979-33f14c8a-36e5-4233-b33b-1dba775c5b57.png)
-## Edit Employee
+## Validations with error message 
 
 ![img-7](https://user-images.githubusercontent.com/44728029/213948980-ac692666-68e3-4ac9-835e-86eaf9d65d78.png)
-## Login Screen
+## Edit Employee 
 
+## Login Screen
 ![img-3](https://user-images.githubusercontent.com/44728029/213948981-ee512ad9-a6d1-4ce9-9c12-49f36b8f22a3.png)
 
