@@ -48,6 +48,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![img-7](https://user-images.githubusercontent.com/44728029/213948980-ac692666-68e3-4ac9-835e-86eaf9d65d78.png)
 ## Edit Employee 
 
-## Login Screen
 ![img-3](https://user-images.githubusercontent.com/44728029/213948981-ee512ad9-a6d1-4ce9-9c12-49f36b8f22a3.png)
 
