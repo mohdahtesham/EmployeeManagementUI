@@ -1,7 +1,6 @@
-# EmployeeManagementUI
+# Employeemanagerapp
 Frontend Repo for employee management application
 =======
-# Employeemanagerapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
 
