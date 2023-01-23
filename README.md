@@ -1,4 +1,4 @@
-# Employeemanagerapp
+# Employee Management App
 Frontend Repo for employee management application
 =======
 ## Login Screen
